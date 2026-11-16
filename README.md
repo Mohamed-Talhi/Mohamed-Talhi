@@ -74,12 +74,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Talhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Talhi&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
 <img width="90%" src="https://streak-stats.demolab.com?user=Mohamed-Talhi&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -100,7 +94,7 @@
 
 <div align="center">
 
-<a href="mailto:talhimohamed983@gmail.com">
+<a href="mailto:mohamedtalhi895@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
